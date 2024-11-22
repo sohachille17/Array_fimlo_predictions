@@ -1,0 +1,14 @@
+C:\Users\soupo\source\repos\_tp_work_002\bin\Debug\net8.0\_tp_work_002.exe
+C:\Users\soupo\source\repos\_tp_work_002\bin\Debug\net8.0\_tp_work_002.deps.json
+C:\Users\soupo\source\repos\_tp_work_002\bin\Debug\net8.0\_tp_work_002.runtimeconfig.json
+C:\Users\soupo\source\repos\_tp_work_002\bin\Debug\net8.0\_tp_work_002.dll
+C:\Users\soupo\source\repos\_tp_work_002\bin\Debug\net8.0\_tp_work_002.pdb
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\_tp_work_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\_tp_work_002.AssemblyInfoInputs.cache
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\_tp_work_002.AssemblyInfo.cs
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\_tp_work_002.csproj.CoreCompileInputs.cache
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\_tp_work_002.dll
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\refint\_tp_work_002.dll
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\_tp_work_002.pdb
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\_tp_work_002.genruntimeconfig.cache
+C:\Users\soupo\source\repos\_tp_work_002\obj\Debug\net8.0\ref\_tp_work_002.dll
